@@ -1,6 +1,3 @@
-# after someone says hello in the channel, my github commit troll bot 
-# asks how many commits they have. it then
-
 require 'cinch'
 
 bot = Cinch::Bot.new do
